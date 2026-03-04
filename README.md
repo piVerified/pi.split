@@ -1,4 +1,4 @@
-# pi.plug
+# pi.split
 
 Welcome the all new pi.split the the pi catalouge, this a custom build split wireless keyboard that snaps together too! 
 ---
@@ -33,4 +33,4 @@ Welcome the all new pi.split the the pi catalouge, this a custom build split wir
 ---
 # Bibliography
 
-> This project would not have been possible without the help of the amazing people of the internet, the Hack Club blueprint guide, and a bit of AI.
+> This project would not have been possible without the help of the amazing people of the internet, the Hack Club statis guide, and a bit of AI.
