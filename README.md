@@ -1,18 +1,15 @@
 # pi.plug
 
-meet pi.plug, my custom designed smart plug and first IoT project, all thanks to the nice peeps at Hack Club! This smart plug lets you control devices remotely, monitor power usage, and automate your home.
-
+Welcome the all new pi.split the the pi catalouge, this a custom build split wireless keyboard that snaps together too! 
 ---
 # Features
 
-1. Remote on/off control via Wi-Fi
-2. Power usage monitoring
-3. Automation and scheduling support
-4. Compact 3D printed enclosure
+1. BLuetooth via Wi-Fi
+2. Long battery life (BLE)
+3. Wired connection
+4. Hotswap PCB
 
-
-## Fusion 360
-
+---
 ### Case
 
 | Top | Side |
